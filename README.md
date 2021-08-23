@@ -1,5 +1,5 @@
 # ArticleApi
-This is an Article API that contains the title of the article, author, email and date.  
+This is an Article API that contains the title of the articles, author, email and date.  
 
 ## Get the APIs consisting of the articles details:
     localhost:8000/articleclass/
