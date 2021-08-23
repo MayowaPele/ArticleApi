@@ -74,6 +74,7 @@ class GenericAPIView(generics.GenericAPIView, mixins.ListModelMixin,
         return self.destroy(request, id)
 
 
+
 class ArticleAPIView(APIView):
 
     def get(self, request):
