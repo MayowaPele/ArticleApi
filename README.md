@@ -1,2 +1,2 @@
 # ArticleApi
-This is an Article API that contains the title of the article, author, email and date.  
+This is an Article API built using python and django that contains the title of an article, author, email and date the article was published 
